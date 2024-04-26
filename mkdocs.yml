@@ -1,0 +1,22 @@
+site_name: Wiki-Annatel
+nav:
+  - Acceuil: index.md
+  - Mobile: mobile.md
+  - Internet: internet.md
+  - TV: tv.md
+  - Fixe: fixe.md
+  - Professionnel: pro.md
+  - Commerical: com.md
+  - Facturation: facturation.md
+
+theme: readthedocs
+
+markdown_extensions:
+  - attr_list
+
+
+
+
+
+
+
